@@ -1,2 +1,5 @@
 streamlit
-random
+openai
+hydralit
+hydralit_components
+streamlit_tags
