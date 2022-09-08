@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run seo_generator.py
+web: sh setup.sh && streamlit run host_app.py
