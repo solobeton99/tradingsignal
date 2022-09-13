@@ -1,1 +1,1 @@
-web: streamlit run --server.enableCORS false --server.port $PORT Trade.py
+web: sh setup.sh && streamlit run host_app.py
